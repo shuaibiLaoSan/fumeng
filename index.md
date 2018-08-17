@@ -1,37 +1,393 @@
-## Welcome to GitHub Pages
+<html lang="zxx"><head>
+	<link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="bookmark" href="images/favicon.ico">
+	<title>浮梦y管理组</title>
+	
+	
+	
+	
+	
+	
+	<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
+	<!--gallery -->
+	<link type="text/css" rel="stylesheet" href="css/cm-overlay.css">
+	<!-- //gallery -->
+	<link href="css/font-awesome.css" rel="stylesheet" type="text/css" media="all">
+	<link rel="stylesheet" href="css/owl.carousel.css" type="text/css" media="all">
+	<link rel="stylesheet" href="css/owl.theme.css" type="text/css" media="all">
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="all">
+	<link href="//fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+	<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i" rel="stylesheet">
+	<style type="text/css">
+	body,td,th {
+	font-family: "Source Sans Pro", sans-serif;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-family: "Source Sans Pro", sans-serif;
+}
+    </style>
+</head>
 
-You can use the [editor on GitHub](https://github.com/shuaibiLaoSan/fumeng/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<body>
+	
+	
+	
+	
+	
+	
+	
+	<div class="" id="about">
+		<h3 class="title-agile about text-center">关于我们</h3>
+<div class="container">
+	  <div class="about-main about1">
+				<div class="col-md-4 about-grid-w3ls">
+					<div class="">
+					  <h4>浮梦y管理组：</h4>
+					  
+					</div>
+					<div class="text-center">
+					  <h4>管理组介绍</h4>
+					  <p><br w="">
+				      </p>
+					</div>
+				<p>title-text-gird-right管理人员：老三QQ826698533  老娇QQ：3369592568</p></div>
+				
+				<div class="col-md-6 about text-center">
+					<div class="">
+					  <h4>关于浮梦y</h4>
+					  <p>浮梦y是一位优质的虎牙mc主播，平均每日直播7-9小时，主播我的世界，偶尔会播单机、绝地求生、堡垒之夜，官方粉丝群①：                官方粉丝群②群：                    </p>
+					</div>
+					<div class="about-sub-grid-w3ls">
+					  <h4>须知</h4>
+					  <p>这个网页有些地方是按照夏天y的官网更改i，其中的字体以及scc我并不会只能在基础上加上自己，这个网址只是一代，以后会加重更改。</p>
+					</div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+		</div>
+	</div>
+	<!-- about-team -->
+	<div id="team" class="section-w3ls team">
+		<div class="container">
+			<h3 class="title-agile about text-center">公告</h3>
+			<p class="about-g text-center">为粉丝们提供快捷通知 </p>
+			<div class="team-row-agileinfo about-main">
+				
+</div>
+		</div>
+	</div>
+	<!-- //about-team -->	<!-- //menu -->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+	<!--blog-->	<!-- //blog -->
+	<!-- feedback -->
+	<div class="feedback section-w3ls about-w3ls" id="testimonials">
+		<div class="feedback-agileinfo">
+			<div class="container">
+			  <h3 class="title-agile about text-center">宣传栏</h3>
+			  <div class="agileits-feedback-grids">
+					<div id="owl-demo" class="owl-carousel owl-theme" style="opacity: 1; display: block;">
+						
+<div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 2768px; left: 0px; display: block; transition: all 800ms ease; transform: translate3d(-346px, 0px, 0px);"><div class="owl-item" style="width: 346px;"><div class="item">
+			  <div class="feedback-info">
 
-### Markdown
+								<div class="feedback-grids">
+									<div class="feedback-img">
+										<a href="http://i.youku.com/summergg" target="_blank"><img src="images/youku.jpg" alt=""></a>
+									</div>
+									<div class="feedback-img-info">
+									  <h5><a href="http://i.youku.com/summergg" target="_blank">夏天夏天y</a></h5>
+									  <p>优酷</p>
+									</div>
+									<div class="clearfix"> </div>
+				</div>
+							</div>
+						</div></div><div class="owl-item" style="width: 346px;"><div class="item">
+							<div class="feedback-info">
+<div class="feedback-grids">
+				  <div class="feedback-img">
+										<a href="https://weibo.com/u/5465718337?topnav=1&amp;wvr=6&amp;topsug=1" target="_blank"><img src="images/wb.jpg" alt=""></a>
+				</div>
+									<div class="feedback-img-info">
+									  <h5><a href="https://weibo.com/u/5465718337?topnav=1&amp;wvr=6&amp;topsug=1" target="_blank">虎牙夏天y</a></h5>
+									  <p>新浪微博</p>
+					</div>
+									<div class="clearfix"> </div>
+							  </div>
+							</div>
+						</div></div><div class="owl-item" style="width: 346px;"><div class="item">
+							<div class="feedback-info">
+<div class="feedback-grids">
+				  <div class="feedback-img">
+										<a href="https://space.bilibili.com/84130356/#/" target="_blank"><img src="images/bilibili.jpg" alt=""></a>
+				</div>
+									<div class="feedback-img-info">
+									  <h5><a href="https://space.bilibili.com/84130356/#/" target="_blank">大魔王夏天y</a></h5>
+									  <h5><a href="https://space.bilibili.com/298013154/#/" target="_blank">大王叫我来巡山丶Y</a></h5>
+									  <p>哔哩哔哩/录播</p>
+									</div>
+									<div class="clearfix"> </div>
+							  </div>
+							</div>
+						</div></div><div class="owl-item" style="width: 346px;"><div class="item">
+							<div class="feedback-info">
+<div class="feedback-grids">
+				  <div class="feedback-img">
+										<a href="https://jq.qq.com/?_wv=1027&amp;k=52UJMG8" target="_blank"><img src="images/qq.jpg" alt=""></a>
+				</div>
+									<div class="feedback-img-info">
+									  <h5><a href="https://jq.qq.com/?_wv=1027&amp;k=52UJMG8" target="_blank"> 123296339</a></h5>
+									  <p>官方QQ群</p>
+									</div>
+									<div class="clearfix"> </div>
+							  </div>
+							</div>
+						</div></div></div></div>
+						
+						
+						
+					<div class="owl-controls clickable"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div><div class="owl-page"><span class=""></span></div></div></div></div>
+			  </div>
+		  </div>
+	  </div>
+	</div>
+	<div class="section-w3ls contact-main" id="contact">
+		<div class="container">
+		  <h3 class="title-agile about text-center">反馈</h3>
+		  <div class="agileits-main-right">
+				<form action="#" method="post" class="agile_form">
+				  <label class="header">名字</label>
+				  <div class="icon1 w3ls-name1">
+						<input placeholder=" " name="first name" type="text" required="">
+					</div>
+					<div class="icon2">
+					  <label class="header">邮箱</label>
+					  <input placeholder=" " name="Email" type="email" required="">
+					</div>
+					<label class="header">您发送的消息内容</label>
+					<textarea class="w3l_summary" required=""></textarea>
+					<input type="submit" value="发送">
+				</form>
+			</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+	<!-- //contact -->
+	<div class="agileits_w3layouts-map">
+		<iframe src="https://j.map.baidu.com/rFdqO" style="border:0" allowfullscreen=""></iframe>
+		<div class="agileits-map">
+		  <h5>联系我们</h5>
+		  <div class="ftr-grid fg2 text-center">
+				<div class="ftr-address">
+					<div class="local">
+						<span class="fa fa-map-marker" aria-hidden="true"></span>
+					</div>
+					<div class="ftr-text">
+					  <p>河北廊坊</p>
+					</div>
+					<div class="clearfix"> </div>
+				</div>
+				<div class="ftr-address">
+					<div class="local">
+						<span class="fa fa-phone" aria-hidden="true"></span>
+					</div>
+					<div class="ftr-text">
+					  <p>无</p>
+					</div>
+					<div class="clearfix"> </div>
+				</div>
+				<div class="ftr-address">
+					<div class="local">
+						<span class="fa fa-envelope" aria-hidden="true"></span>
+					</div>
+					<div class="ftr-text"><a href="mailto:admin@xiatiany.cc">admin@xiatiany.cc</a></div>
+					<div class="clearfix"> </div>
+				</div>
+				<div class="ftr-address">
+					<div class="local">
+						<span class="fa fa-globe" aria-hidden="true"></span>
+					</div>
+					<div class="ftr-text"><a href="http://www.xiatiany.cc"> www.xiatiany.cc</a></div>
+					<div class="clearfix"> </div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="copyright text-center">
+		<div class="container">
+		  <h6 class="title-btm about text-center">关注我们</h6>
+		  <ul class="top-links">
+				<li>
+					<a href="#">
+						<span class="fa fa-facebook"></span>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<span class="fa fa-twitter"></span>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<span class="fa fa-google-plus"></span>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<span class="fa fa-linkedin"></span>
+					</a>
+				</li>
+			</ul>
+		  <p>Copyright © 2017-2018 夏天y管理组.All Rights Reserved. <a href="http://www.xiatiany.cc/" target="_blank">夏天y管理组</a> 版权所有</p>
+		</div>
+	</div>
+	<!-- Tooltip -->
+	<div class="tooltip-content">
+		<div class="modal fade features-modal" id="myModal" tabindex="-1" role="dialog" aria-hidden="true">
+			<div class="modal-dialog modal-md">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+						<h2 class="modal-title">夏天y直播间</h2>
+					</div>
+					<div class="modal-body">
+						<iframe width="100%" height="600" frameborder="0" scrolling="no" src="http://liveshare.huya.com/iframe/xiatiany"></iframe>
+						<p>公告 : 每天12:00-15:30,18:00-21:00 新浪微博：虎牙夏天y，B站：大魔王夏天y，零食店：夏天歪吃</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- //Tooltip -->
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+	<!-- js -->
+	<script src="js/jquery-2.2.3.min.js"></script>
+	<!--/js-->
+	<script type="text/javascript" src="js/numscroller-1.0.js"></script>
+	<!-- Slider-JavaScript -->
+	<script src="js/responsiveslides.min.js"></script>
+	<script>
+		$(function () {
+			$("#slider, #slider1").responsiveSlides({
+				auto: true,
+				nav: false,
+				speed: 1500,
+				namespace: "callbacks",
+				pager: true,
+			});
+		});
+	</script>
+	<!-- //Slider-JavaScript -->
+	<script>
+		// You can also use "$(window).load(function() {"
+		$(function () {
+			// Slideshow 4
+			$("#slider3").responsiveSlides({
+				auto: true,
+				pager: false,
+				nav: true,
+				speed: 500,
+				namespace: "callbacks",
+				before: function () {
+					$('.events').append("<li>before event fired.</li>");
+				},
+				after: function () {
+					$('.events').append("<li>after event fired.</li>");
+				}
+			});
 
-```markdown
-Syntax highlighted code block
+		});
+	</script>
+	<!-- //gallery -->
+	<script src="js/jquery.tools.min.js"></script>
+	<script src="js/jquery.mobile.custom.min.js"></script>
+	<script src="js/jquery.cm-overlay.js"></script>
 
-# Header 1
-## Header 2
-### Header 3
+	<script>
+		$(document).ready(function () {
+			$('.cm-overlay').cmOverlay();
+		});
+	</script>
+	<!-- //gallery -->
+	<!-- owl carousel -->
+	<script src="js/owl.carousel.js"></script>
+	<script>
+		$(document).ready(function () {
+			$("#owl-demo").owlCarousel({
 
-- Bulleted
-- List
+				autoPlay: 3000, //Set AutoPlay to 3 seconds
+				autoPlay: true,
+				items: 3,
+				itemsDesktop: [991, 2],
+				itemsDesktopSmall: [414, 4]
 
-1. Numbered
-2. List
+			});
+		}); 
+	</script>
+	<!-- //owl carousel -->
+	<script type="text/javascript" src="js/move-top.js"></script>
+	<script type="text/javascript" src="js/easing.js"></script>
+	<script type="text/javascript">
+		jQuery(document).ready(function ($) {
+			$(".scroll").click(function (event) {
+				event.preventDefault();
 
-**Bold** and _Italic_ and `Code` text
+				$('html,body').animate({
+					scrollTop: $(this.hash).offset().top
+				}, 1000);
+			});
+		});
+	</script>
+	<!-- //end-smooth-scrolling -->
+	<!-- smooth-scrolling-of-move-up -->
+	<script type="text/javascript">
+		$(document).ready(function () {
+			/*
+			var defaults = {
+				containerID: 'toTop', // fading element id
+				containerHoverID: 'toTopHover', // fading element hover id
+				scrollSpeed: 1200,
+				easingType: 'linear' 
+			};
+			*/
 
-[Link](url) and ![Image](src)
-```
+			$().UItoTop({
+				easingType: 'easeOutQuart'
+			});
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+		});
+	</script>
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shuaibiLaoSan/fumeng/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+	<script src="js/SmoothScroll.min.js"></script>
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+	<!-- Bootstrap core JavaScript
+    ================================================== -->
+	<!-- Placed at the end of the document so the pages load faster -->
+	<script src="js/bootstrap.js"></script>
+	<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+      
+            
+                <meta name="shenma-site-verification" content="28c83e766aadd0b652c6affe3b36b3b1_1533989429">
+                <title>My title</title>
+            
+            page contents
+      
+<script src="https://s22.cnzz.com/z_stat.php?id=1274417231&amp;web_id=1274417231" language="JavaScript"></script><script src="https://c.cnzz.com/core.php?web_id=1274417231&amp;t=z" charset="utf-8" type="text/javascript"></script><a href="http://www.cnzz.com/stat/website.php?web_id=1274417231" target="_blank" title="站长统计">站长统计</a>
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1274417231'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1274417231' type='text/javascript'%3E%3C/script%3E"));</script><span id="cnzz_stat_icon_1274417231"><a href="http://www.cnzz.com/stat/website.php?web_id=1274417231" target="_blank" title="站长统计">站长统计</a></span><script src=" http://s22.cnzz.com/z_stat.php?id=1274417231" type="text/javascript"></script><script src="https://c.cnzz.com/core.php?web_id=1274417231&amp;t=z" charset="utf-8" type="text/javascript"></script>
+
+
+<a href="#" id="toTop" style="display: none;"><span id="toTopHover"></span>To Top</a><div id="qb_collection_img_mask" style="display: none; top: 311px; left: 603.641px;"> <div class="qb_collection_img_icon"></div> <span>收藏</span> </div></body></html>
